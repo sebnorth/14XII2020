@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wizytowka", "Wizytowka\Wizytowka.csproj", "{589A359F-AE45-42CA-999D-8516C47A40DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589A359F-AE45-42CA-999D-8516C47A40DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589A359F-AE45-42CA-999D-8516C47A40DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589A359F-AE45-42CA-999D-8516C47A40DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589A359F-AE45-42CA-999D-8516C47A40DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {509F2057-38CE-4ADE-8F56-500916AC25AF}
+	EndGlobalSection
+EndGlobal
